@@ -1,0 +1,13 @@
+{
+  "name": "Sample Project",
+  "description": "This is a sample project created through the SRIOX file manager.",
+  "status": "active",
+  "technologies": [
+    "React",
+    "TypeScript",
+    "Next.js"
+  ],
+  "github": "https://github.com/user/sample-project",
+  "createdAt": "2025-07-25T18:55:09.693Z",
+  "updatedAt": "2025-07-25T18:55:09.694Z"
+}
