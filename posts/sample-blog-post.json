@@ -1,0 +1,13 @@
+{
+  "title": "Sample Blog Post",
+  "content": "This is a sample blog post created through the SRIOX file manager.",
+  "metadata": {
+    "tags": [
+      "sample",
+      "blog"
+    ],
+    "author": "SRIOX User",
+    "createdAt": "2025-07-25T18:58:01.352Z",
+    "updatedAt": "2025-07-25T18:58:01.352Z"
+  }
+}
